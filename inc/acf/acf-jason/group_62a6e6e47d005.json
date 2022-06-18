@@ -1,0 +1,44 @@
+{
+    "key": "group_62a6e6e47d005",
+    "title": "Testimonial Settings",
+    "fields": [
+        {
+            "key": "field_62a6e6f3ae855",
+            "label": "Designation",
+            "name": "designation",
+            "type": "text",
+            "instructions": "Add designation here.",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "testimonials"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1655480848
+}
